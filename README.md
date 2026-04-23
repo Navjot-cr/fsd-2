@@ -1,6 +1,6 @@
 # Full Stack Development II — Semester 6
 
-**Parth Kansal · 23BIS70035**
+**Navjot Singh · 23BIS70068**
 
 A collection of 20 lab experiments covering the full spectrum of modern web development — from building React SPAs and REST APIs to microservices, real-time communication, and CI/CD pipelines.
 
